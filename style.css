@@ -1143,7 +1143,7 @@
         /* 두 칸 */
         grid-template-rows: auto auto;
         position: relative;
-        height: calc(100vh - 108px);
+        /* height: calc(100vh - 108px); */
         overflow: hidden;
     }
 
@@ -1171,10 +1171,10 @@
     .main_visual .left .left_video {
         position: absolute;
         object-fit: cover;
-        height: calc(100vh - 108px);
+        /* height: calc(100vh - 108px); */
 
         /* r */
-        height: calc(100vh - 108px);
+        /* height: calc(100vh - 108px); */
     }
 
     .main_visual .left .slg {
