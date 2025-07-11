@@ -945,7 +945,7 @@
 
         /* r */
         position: relative;
-        height: calc(100vh - 400px);
+        height: 640px;
         overflow: hidden;
     }
 
